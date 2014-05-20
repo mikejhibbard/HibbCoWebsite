@@ -1,0 +1,33 @@
+.pageHeader{
+	padding:200px;
+}
+
+.head{
+	border-radius:10px;
+	margin:5px 5px 5px 5px;
+	padding:5px;
+    font-family:Helvetica;
+    font-size:14px;
+    color:#000066;
+    text-align:full;
+    background-color:#D8D8D8;
+}
+.body{
+	border-radius:10px;
+	margin:5px 5px 5px 5px;
+    padding:5px;
+    font-family:Helvetica;
+    font-size:14px;
+    color:#000066;
+    text-align:full;
+    background-color:#D8D8D8;
+}
+.pageFooter{
+	margin:20px;
+	font-family:Helvetica;
+	font-size:10px;
+	text-align:center;
+	color:grey;
+	background-color:white;
+}
+
